@@ -6,6 +6,7 @@ This repository includes all material used during the course: Class notes and pr
 > * Instructor: Gonzalo Ferrer
 > * Teaching Assistant: Ahmed Baza
 > * Teaching Assistant: Aleksei Panchenko
+> * Teaching Assistant: Mark Griguletskii
 > * [OFFICIAL Telegram channel with TAs](https://t.me/+iDjcbn0qir1iZmMy)
 
 For the logistics, this course will be taught offline (in class) including a lecture and sometimes a small seminar following.
